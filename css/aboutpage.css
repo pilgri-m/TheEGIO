@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: rgb(114, 148, 156);
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    margin-left: 200px;
+    margin-right: 200px;
+    color: rgb(65, 63, 63);
+}
+
+.testClass {
+    color:red;
+    font-size: 300%;
+}

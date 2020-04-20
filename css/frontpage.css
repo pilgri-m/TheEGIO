@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: rgb(114, 148, 156);
+}
+
+h1 {
+    font-family: monospace;
+    font-variant:small-caps;
+    color: white;
+    /*margin-left: 20px;*/
+}
+
+.testClass {
+    color:yellow;
+}
